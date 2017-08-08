@@ -1,5 +1,5 @@
 module.exports = {
-    server: '158.222.233.148',
+    server: '',
     port: 3000,
     timeout: 10
 };
