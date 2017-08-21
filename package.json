@@ -1,0 +1,21 @@
+{
+  "name": "sketchy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sockets",
+    "p5.js",
+    "node"
+  ],
+  "author": "kent feng",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "express-socket.io-session": "^1.3.2",
+    "socket.io": "^2.0.3"
+  }
+}
