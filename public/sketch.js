@@ -8,7 +8,7 @@ function setup() {
 
     //create a new canvas
     var new_width = 0.98*windowWidth;
-    var new_height = 0.88*windowHeight; //used to be .748
+    var new_height = 0.80*windowHeight; //used to be .748 >> .88 >> .8
     var canv = createCanvas(new_width, new_height);
     canv.parent('canvas-holder');
     background(255,255,255);
