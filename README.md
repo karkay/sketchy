@@ -1,4 +1,4 @@
-# sketchy-working
+# sketchy
 
  ![](https://raw.githubusercontent.com/karkay/sketchy/master/sketchy-demo.gif)
  
