@@ -1,6 +1,13 @@
 # sketchy-working
-# Description
+# About
 ##### multi-user session based drawing application
-check it out: https://goo.gl/aofuaB
+### Requirements
+..* node.js
+..* socket.io
+..* express js
+..* p5.js
+
+# Demo site
+https://goo.gl/aofuaB
 
 
