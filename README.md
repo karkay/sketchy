@@ -1,13 +1,6 @@
 # sketchy-working
-multi-user session based drawing application
+#Description
+#####multi-user session based drawing application
+check it out: https://goo.gl/aofuaB
 
-demo site: https://goo.gl/aofuaB
-
-features
-
--color sliders
-
--clear canvas
-
--save drawing
 
