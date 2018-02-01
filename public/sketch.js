@@ -35,6 +35,12 @@ function setup() {
     bSlider.parent('blue');
     tSlider = createSlider(5, 40, 20);
     tSlider.parent('thickness');
+	
+	
+    //scroll lock for mobile devices
+    document.ontouchmove = function(event){
+       event.preventDefault();
+    }
 
     //prompt user for room name and checks for null and empty input
     socket = io();
